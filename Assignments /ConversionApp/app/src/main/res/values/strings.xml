@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+    <string name="label_temperature">Temperature:</string>
+    <string name="label_conversion">Conversion:</string>
+    <string name="button_c_to_f">C to F</string>
+    <string name="button_f_to_c">F to C</string>
+    <string name="button_reset">Reset</string>
+    <string name="hint_enter_temperature">Enter Temperature</string>
+    <string name="ctoFButton">C to F</string>
+</resources>

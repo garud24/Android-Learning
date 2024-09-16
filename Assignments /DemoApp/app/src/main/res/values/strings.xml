@@ -1,0 +1,16 @@
+<resources>
+    <string name="main">Color Selection</string>
+    <string name="colorHEX">Color HEX: #40800</string>
+    <string name="colorRGB">Color RGB: (64, 128, 0)</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="labelBlue">Blue:</string>
+    <string name="blue">Blue</string>
+    <string name="reset">Reset</string>
+    <string name="red">Red:</string>
+    <string name="green">Green:</string>
+    <string name="redValueDefault">64</string>
+    <string name="greenValueDefault">128</string>
+    <string name="blueValueDefault">0</string>
+
+</resources>

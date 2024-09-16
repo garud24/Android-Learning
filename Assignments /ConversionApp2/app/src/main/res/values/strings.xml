@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+    <string name="temperature">Temperature:</string>
+    <string name="temperatureHint">Enter Temperature</string>
+    <string name="conversion">Conversion:</string>
+    <string name="conversionHint">N/A</string>
+    <string name="selectConversion">Select Conversion:</string>
+    <string name="c_to_f">C to F</string>
+    <string name="f_to_c">F to C</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="error_invalid_input">Please enter a valid temperature.</string>
+</resources>
